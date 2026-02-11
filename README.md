@@ -1,5 +1,14 @@
 # 📊 End-to-End Azure SQL + Power BI Data Analytics Project
 
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Server](https://img.shields.io/badge/Azure%20Server-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Firewall Config](https://img.shields.io/badge/Firewall%20Configuration-FF6F00?style=flat&logo=windowssecurity&logoColor=white)
+![CSV Import](https://img.shields.io/badge/CSV%20Import-217346?style=flat&logo=microsoft&logoColor=white)
+![SQL Data Cleaning](https://img.shields.io/badge/SQL%20Data%20Cleaning-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power%20BI%20Integration](https://img.shields.io/badge/Power%20BI%20Integration-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX Calculations](https://img.shields.io/badge/DAX%20Calculations-005571?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=flat)
+
 ## 📌 Project Overview
 This project demonstrates an end-to-end data pipeline using Microsoft Azure, SQL Server Management Studio (SSMS), and Power BI. 
 
